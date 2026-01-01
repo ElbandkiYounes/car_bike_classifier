@@ -17,8 +17,7 @@ env/
 *.pkl
 *.ckpt
 
-# Dataset (too large for GitHub)
-dataset/
+
 
 # IDE
 .vscode/
